@@ -1,2 +1,4 @@
 File 1 here.
-File 1 has changed
+File 1 has changed.
+
+File 1 changed by master
